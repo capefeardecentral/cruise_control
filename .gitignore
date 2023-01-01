@@ -1,0 +1,15 @@
+**/.idea
+
+# Elixir/Phoenix
+/tmp
+
+# Static artifacts
+/node_modules
+/assets/node_modules
+/priv/static/
+
+# Installer-related files
+/installer/_build
+/installer/tmp
+/installer/doc
+/installer/deps
